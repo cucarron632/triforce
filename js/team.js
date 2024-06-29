@@ -1,6 +1,6 @@
 // Lista de 20 videos
 const videos = [
-   "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d5e44da13127048971_08(2).mp4",
+    "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d5e44da13127048971_08(2).mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977d13f8854293a375871_08(1).mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e977cccafd905222beda00_07(1).mp4",
     "https://s3.amazonaws.com/webflow-prod-assets/64597a8e3c345998aa7cd3c4/65e96dfa450c282ca832efa4_video_2024-03-05_16-01-32.mp4",
@@ -182,16 +182,27 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener("DOMContentLoaded", function () {
     var descripcionesAleatorias = [
-        "Hey there, 24 years old 💋. Looking for some fun activities? Are you over 18? 🔞🔞",
-"Hi, 21 and ready 💋. Ready for some interesting conversations? Are you over 18? 🔞🔞",
-"Hello, 19 years old 💋. Are you up for some fun? Are you over 18? 🔞🔞",
-"Hi, 25 here 💋. Want to try something new? Are you over 18? 🔞🔞",
-"Hey, 20 years young 💋. Looking for a great time? Are you over 18? 🔞🔞",
-"Hi, 23 💋. Up for some exciting activities? Are you over 18? 🔞🔞",
-"Hello, 22 💋. Ready to have some fun? Are you over 18? 🔞🔞",
-"Hey, 18 💋. Want to enjoy some new experiences? Are you over 18? 🔞🔞",
-"Hi, 25 💋. Interested in some fun activities? Are you over 18? 🔞🔞",
-"Hello, 20 💋. Ready for a new adventure? Are you over 18? 🔞🔞",
+        "Watch Me Masturbate Live ❤️",
+        "📞🔥 Phone Calls, 💥 Custom Videos, 😋 Live Broadcasts, Your Name on My 🍒TITS!",
+        "Made in Czech 🇨🇿🍺 Big smile and big...heart🍒 Cum join me in my adventures as I show off just for you baby ❤️",
+        "❣ Exclusive VIP Content 🔞|Seduction and Sensuality Unleashed 🦊| Monthly Nude Delights📸",
+        "😻 Model, ❤️ student 🔥I make exclusive videos, 📞calls! Sexsting LIVE -broadcasts!!🍑🍒 #fuck",
+        "Model, 20 y.o 🇪🇸 Wanna chat with me? Check all my links 😍",
+        "Hi I’m Molly! ❤️ Just a sweet girl who loves to be naughty 🤫😈💋CHECK ALL MY LINKS via IG! ✨",
+        "🔥 Hot and ready for you! 😈 Let's play together and make your fantasies come true 💦",
+        "🍑 Curvy and fun! 💋 Join me for exclusive content and live shows 📸",
+        "🌟 Your favorite cam girl! 🎥 Live shows, custom videos, and more 🔞",
+        "💖 Sensual and seductive! 😘 Exclusive content just for you 💌",
+        "🔥 Naughty but nice! 💋 Cum play with me and let's have some fun 🍒",
+        "🌺 Sweet and sexy! 💫 Join me for a private show and let's get wild together 🚀",
+        "👅 Ready to please! 💦 Let's explore your wildest desires together 🔥",
+        "🔞 Explicit content and live shows! 💋 Cum chat with me and let's have some fun 😘",
+        "🌈 Fun and flirty! 💖 Exclusive content and private shows just for you 🌟",
+        "💥 Wild and willing! 🔞 Let's get naughty together and have an unforgettable time 😈",
+        "Hi, my name is Mia, I love traveling, sex and making videos 💖",
+        "Hi, I'm Anna 23 yo 💋, ready for smth hot?🔞🔞",
+        "Welcome to my page 💎 You will notice that I am always sweet and friendly! 💗 Feel free to ask me anything - I'll always chat with you😌",
+    
  ];
 
     for (var i = 1; i <= 5; i++) {
@@ -212,6 +223,12 @@ document.addEventListener("DOMContentLoaded", function () {
 document.addEventListener("DOMContentLoaded", function () {
     var imagenesAleatorias = [
         "/img/Screenshot_5.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/616000/616523/665920.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/401000/401631/399868.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/71000/71150/66783.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/619000/619585/670246.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/176000/176045/171823.jpg",
+        "https://photos.xgroovy.com/contents/albums/sources/159000/159022/154792.jpg",
         "https://img.goodfon.com/original/2048x2048/9/6c/malena-morgan-model-devushka-6401.jpg",
         "https://i.pinimg.com/564x/02/dc/06/02dc060cb7fa3f106a86769af44ee3dd.jpg",
         "https://i.pinimg.com/564x/06/ce/71/06ce711727df122dcf8d19601398aaf3.jpg",
@@ -221,14 +238,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "https://i.pinimg.com/736x/25/49/19/254919a4886d98c956c3f39df0ffff9b.jpg",
         "https://i.pinimg.com/564x/24/62/15/24621573b3191406415ebb4df1e311a0.jpg",
         "https://i.pinimg.com/564x/fb/6c/08/fb6c0817758cf418e32273aef7d6dde7.jpg",
-        "https://i.pinimg.com/564x/9b/16/dc/9b16dcccfba35871962e4a31f663ac5b.jpg",
-        "https://i.pinimg.com/564x/17/79/57/177957dfc4bf0bdd9833bd0c94469fce.jpg",
-        "https://i.pinimg.com/564x/1b/88/89/1b88893163918f58e94646e9dce50d47.jpg",
-        "https://i.pinimg.com/564x/c5/14/cc/c514cc70372d057037ca692233eee43d.jpg",
-        "https://i.pinimg.com/564x/4b/43/23/4b43231f346521462e83f839e32ae912.jpg",
-        "https://i.pinimg.com/564x/6a/6e/e1/6a6ee14839b7b3c95051e3b9bd241fd4.jpg",
-        "https://i.pinimg.com/564x/15/e5/d3/15e5d32eb5f3a2d4dcc815ff7ebfddb9.jpg",
-        "https://i.pinimg.com/564x/5b/32/b4/5b32b4083b092ec8def347fcd7820fce.jpg",
+        "https://i.pinimg.com/564x/e5/93/50/e593500025e0fb40deaabb7484fa6fa8.jpg",
     ];
 
     for (var i = 1; i <= 5; i++) {
@@ -240,4 +250,5 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     }
 });
+
 
